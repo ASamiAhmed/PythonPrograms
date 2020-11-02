@@ -25,3 +25,13 @@ count = 0
 for loop in range(0,11):
     print(count)
     count= count + 1
+
+count = 0
+while count<15:
+
+    print(count)
+    count+=1
+    if count == 10:
+        continue
+    
+print("outside while loop body")    
