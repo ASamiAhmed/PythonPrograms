@@ -2,9 +2,9 @@
 # for i in name:
 #     print(i)
 
-# name = "apple"
-# for i in range(0,len(name)):
-#    print(name[i])
+name = "apple"
+for i in range(0,len(name)):
+    print(name[i])
 
 # name = "hello world"
 # print(name[4])
